@@ -30,6 +30,8 @@ Wscript.Sleep 100
 WshShell.SendKeys "^v" ' paste the new suggestion
 
 Wscript.Quit
+
+' examples
 'akuo gkhfo
 '= ,שלום עליכם
 'akuo gkhfo nktfh gkhui
